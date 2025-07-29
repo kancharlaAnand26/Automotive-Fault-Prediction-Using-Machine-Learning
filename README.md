@@ -1,4 +1,3 @@
-# Automotive-Fault-Prediction-Using-Machine-Learning
 # 🚗 Automotive Fault Prediction Using Machine Learning
 
 This project predicts automotive faults like engine overheating or brake failure using sensor data and machine learning. It simulates predictive maintenance systems used in connected vehicles.
